@@ -13,9 +13,8 @@ Track internship program.
 
 ## Author
 **Sabiha Metlo**
-- LinkedIn: [linkedin.com/in/sabiha-metlo](https://linkedin.com/in/sabiha-metlo)
-- GitHub: [github.com/sabiha-metlo](https://github.com/sabiha-metlo)
+- LinkedIn: [linkedin.com/in/sabiha-metlo](www.linkedin.com/in/sabiha-metlo-7945bb328)
+- GitHub: [github.com/sabiha-metlo](https://github.com/SabihaMetlo)
 
 ## Internship
 **InternGrow** — Machine Learning Track  
-Contact: interngrow.official@gmail.com

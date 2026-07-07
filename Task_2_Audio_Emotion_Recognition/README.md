@@ -17,13 +17,6 @@ extraction and a Convolutional Neural Network (CNN).
 4. CNN: Conv2D(32) → Conv2D(64) → Dense(128) → Softmax(8)
 5. EarlyStopping + ReduceLROnPlateau callbacks
 
-## Results
-| Metric | Score |
-|--------|-------|
-| Test Accuracy | ~46% |
-| Best class (Angry F1) | 0.71 |
-| Worst class (Neutral F1) | 0.00 |
-
 ## Why accuracy is limited
 RAVDESS contains only 1,440 samples across 8 classes. Neutral has 96 samples 
 (half of other classes) due to no "strong intensity" variant — the model 
@@ -33,6 +26,25 @@ learned to never predict it. Published CNNs on this dataset typically achieve
 ## How to run
 Open `notebook/audio_emotion_recognition.ipynb` in Google Colab.
 Download RAVDESS via Kaggle: `uwrfkaggler/ravdess-emotional-speech-audio`
+
+**Live mic prediction output:**
+```
+🎤 Recording for 3 seconds... SPEAK NOW!
+✅ Recording complete. Processing...
+
+🎯 Predicted emotion: DISGUST
+📊 Confidence: 59.1%
+
+All probabilities:
+  angry     : 0.022 ██
+  calm      : 0.177 ███
+  disgust   : 0.591 ████████████
+  fearful   : 0.010
+  happy     : 0.001
+  neutral   : 0.001
+  sad       : 0.198 ███
+  surprised : 0.000
+```
 
 ## Tech Stack
 Python · TensorFlow/Keras · librosa · scikit-learn · NumPy · Matplotlib

@@ -13,7 +13,7 @@ Track internship program.
 
 ## Author
 **Sabiha Metlo**
-- LinkedIn: [linkedin.com/in/sabiha-metlo](www.linkedin.com/in/sabiha-metlo)
+- LinkedIn: [linkedin.com/in/sabiha-metlo](https://www.linkedin.com/in/sabiha-metlo-7945bb328/)
 - GitHub: [github.com/sabiha-metlo](https://github.com/SabihaMetlo)
 
 ## Internship

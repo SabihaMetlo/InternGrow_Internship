@@ -107,4 +107,4 @@ Task_3_OCR_Engine/
 
 **Sabiha Metlo**
 BS Information Technology, Quaid-e-Awam University, Nawabshah
-[GitHub](https://github.com/SabihaMetlo) | [LinkedIn](www.linkedin.com/in/sabiha-metlo-7945bb328)
+[GitHub](https://github.com/SabihaMetlo) | [LinkedIn](https://linkedin.com/in/sabiha-metlo)

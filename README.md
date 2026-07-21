@@ -8,8 +8,8 @@ Track internship program.
 | Task | Title | Status |
 |------|-------|--------|
 | Task 2 | Audio Emotion Recognition Engine | ✅ Complete |
-| Task 3 | Advanced OCR Engine | 🔄 In Progress |
-| Task 4 | Clinical Disease Diagnostics Engine | 🔄 In Progress |
+| Task 3 | Advanced OCR Engine | ✅ Complete |
+| Task 4 | Clinical Disease Diagnostics Engine | ✅ Complete |
 
 ## Author
 **Sabiha Metlo**
